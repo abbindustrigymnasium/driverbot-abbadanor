@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-plus": "^1.0.2-beta.28",
+    "mqtt": "^4.2.6",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -20,6 +22,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0",
     "sass": "^1.26.5",
-    "sass-loader": "^8.0.2"
+    "sass-loader": "^8.0.2",
+    "vue-cli-plugin-element-plus": "~0.0.13"
   }
 }
