@@ -15,10 +15,12 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Home
+<img src="/assets/home.PNG" alt="home" width="700"/>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Config
+<img src="/assets/config.PNG" alt="config" width="700"/>
+
+### About
+<img src="/assets/about.PNG" alt="about" width="700"/>
+
